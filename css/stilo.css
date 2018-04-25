@@ -24,7 +24,7 @@
 }
 
 #link {
-    color: #000000;
+    color: #1a1a1a;
 }
 
 body {
@@ -32,7 +32,11 @@ body {
 }
 
 .geral {
-    background-color: #E14A8D;
+    background-color: #e676a8;
+    border: 0px;
+}
+.geral2 {
+    background-color: #862c98;
     border: 0px;
 }
 
